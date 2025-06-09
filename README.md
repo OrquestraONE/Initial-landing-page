@@ -1,1 +1,1 @@
-The purpose of this repo is to maintain a landing page of our agentic AI model OrquestraONE.
+The purpose of this repo is to maintain a landing page of our agentic AI model OrquestraONE. This agent performs a range of tasks from taking meeting notes, scheduling follow-up calls, adding dependecies with other teams and creating and monitoring JIRA tickets
